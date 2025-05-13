@@ -1,0 +1,2 @@
+company.printDepartments(1), lepsze by było company.printDepartments(std::ostream& o=std::cout)!!!!
+!
