@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/fs.dir/Main.cpp.o CMakeFiles/fs.dir/src/BookingManager.cpp.o CMakeFiles/fs.dir/src/logger.cpp.o -o fs 

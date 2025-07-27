@@ -14,16 +14,6 @@ Struktura propramu powinna być oparta o definicję zawartą w pliku CMakeLists.
 
 Ostateczny program powinien byc przyjazny dla programisty (miec czytelny i dobrze napisany kod),
 oraz powinna być spełniona zasada D.R.Y. - Don't Repeat Yourself
-
-Przy wykonaniu zadania nie wolno korzystac z internetu, notatek,
-ani żadnych innych materiałó
-
-Kody źródłowe muszą znajdować się w katalogu do którego nikt oprócz
-właściciela nie ma praw dostępu. Rozwiazanie (czyli dodane pliki i Main.cpp
-należy wgrać do UPEL jako archiwum tar.gz, UWAGA:
-* archiwum powinno zawierać katalog z zadaniem, np. lab11/
-* archiwum nie powinno zawierać katalogu build/
-
 */
 
 #include "reservation.h"
