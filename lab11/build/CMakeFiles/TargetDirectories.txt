@@ -1,3 +1,0 @@
-/home/przemek/CPP/semestr_4/lab11/build/CMakeFiles/fs.dir
-/home/przemek/CPP/semestr_4/lab11/build/CMakeFiles/edit_cache.dir
-/home/przemek/CPP/semestr_4/lab11/build/CMakeFiles/rebuild_cache.dir
