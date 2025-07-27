@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/fs.dir/Main.cpp.o CMakeFiles/fs.dir/src/Punkt.cpp.o -o fs 
